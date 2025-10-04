@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 20px;
+    color: green;
+}
+
+#map {
+    margin: 20px auto;
+    width: 90%;
+    height: 500px;
+}
+
+canvas {
+    margin: 20px auto;
+}
